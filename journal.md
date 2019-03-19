@@ -11,3 +11,6 @@ I'm hungry, may go to McDonalds for lunch.
 
 #Status update
 Still here. Still typing and getting confused about branches. I'll give another update in a bit.
+
+#References 
+See references
