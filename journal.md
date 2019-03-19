@@ -1,5 +1,5 @@
 # Title
-True Story of my time in Manchester
+True Stories of my time in Manchester
 
 # Authors 
 Daniel Jensen
