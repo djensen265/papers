@@ -3,8 +3,12 @@ True Stories of my time in Manchester
 
 
 # Authors 
+
 Daniel Jensen, University of Sheffield, take me home, country roads, to the place, I belong, SOUTH YORKSHIRE
 Insert joke.
+
+Daniel Jensen, Elliot Cooksey-Nash University of Sheffield, take me home, country roads, to the place, I belong, SOUTH YORKSHIRE
+HI ELLIOT I'M HERE TOO
 
 #Introduction
 Why is this 5 hours? Where is all the other Sheffield students? All questions that will be answered as we go through this lesson [Daniel et al, 2019].
@@ -23,4 +27,8 @@ I need to pee.
 Too graphic. 
 
 #Conclussion
-I hope this is the section cuz I really do need to pee. 
+I hope this is the section cuz I really do need to pee.
+
+# Hi Daniel
+
+heyya
